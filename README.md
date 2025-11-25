@@ -26,7 +26,3 @@ npm run dev
 2. **Avvia il frontend** - Apri un altro terminale e avvia Vue
 3. **Carica il modello** - Clicca su "Load Model" (prima volta: ~30 secondi)
 4. **Genera barzellette** - Inserisci un topic opzionale e clicca "Generate Joke"
-
-## 🤖 Modello
-
-- **DistilGPT-2** - Modello molto leggero (~350MB)
