@@ -1,10 +1,10 @@
 # 🎭 AI Joke Generator
 
-Un generatore di barzellette AI usando **DistilGPT-2** su Hugging Face.
+Un generatore di barzellette
 
 ## 🚀 Setup
 
-### Backend (FastAPI + DistilGPT-2)
+### Backend
 
 ```bash
 cd backend
